@@ -1,6 +1,7 @@
 setup.cfg
 setup.py
 mclib/__init__.py
+mclib/utils.py
 mclib.egg-info/PKG-INFO
 mclib.egg-info/SOURCES.txt
 mclib.egg-info/dependency_links.txt
