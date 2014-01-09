@@ -21,6 +21,7 @@ setup(name='mclib',
           # -*- Extra requirements: -*-
           "ipdb",
           "configobj",
+          "nose",
       ],
       entry_points="""
       # -*- Entry points: -*-

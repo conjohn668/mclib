@@ -8,3 +8,5 @@ mclib.egg-info/entry_points.txt
 mclib.egg-info/not-zip-safe
 mclib.egg-info/requires.txt
 mclib.egg-info/top_level.txt
+mclib/nic/__init__.py
+mclib/nic/ethernet.py
