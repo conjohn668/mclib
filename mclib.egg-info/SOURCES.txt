@@ -1,0 +1,9 @@
+setup.cfg
+setup.py
+mclib/__init__.py
+mclib.egg-info/PKG-INFO
+mclib.egg-info/SOURCES.txt
+mclib.egg-info/dependency_links.txt
+mclib.egg-info/entry_points.txt
+mclib.egg-info/not-zip-safe
+mclib.egg-info/top_level.txt
