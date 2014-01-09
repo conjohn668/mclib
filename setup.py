@@ -10,8 +10,8 @@ setup(name='mclib',
 """,
       classifiers=[], # Get strings from http://pypi.python.org/pypi?%3Aaction=list_classifiers
       keywords='',
-      author='',
-      author_email='',
+      author='conjohn668',
+      author_email='conjohn668@gmail.com',
       url='',
       license='',
       packages=find_packages(exclude=['ez_setup', 'examples', 'tests']),
@@ -19,6 +19,8 @@ setup(name='mclib',
       zip_safe=False,
       install_requires=[
           # -*- Extra requirements: -*-
+          "ipdb",
+          "configobj",
       ],
       entry_points="""
       # -*- Entry points: -*-
